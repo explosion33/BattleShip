@@ -1,4 +1,4 @@
-#BattleShip
+BattleShip
 
 Instructions:
 To play the game start by running game.py
